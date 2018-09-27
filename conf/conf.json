@@ -1,0 +1,6 @@
+{
+ "log_path" : "/usr/local/nginx/logs/info_logs",
+ "date" : "",
+ "Headline" : "20",
+ "result_file":"/home/longrise/work/nginxAnalysis.txt"
+}
